@@ -1,7 +1,7 @@
 #  SUPER SOUKOBAN
 
-   ##  Description
- Super Soukoban is an arcade game for the Super Nintendo Entertainment System launched in 1993. Is similar as a puzzle, and what the player has to do is pushing the boxes in the correct way and put them above the pink spheres. The history of the main character is to earn money and buy a new car so the girl choose him instead of the man of the blue car.
+##  Description
+Super Soukoban is an arcade game for the Super Nintendo Entertainment System launched in 1993. Is similar as a puzzle, and what the player has to do is pushing the boxes in the correct way and put them above the pink spheres. The history of the main character is to earn money and buy a new car so the girl choose him instead of the man of the blue car.
  
  
 Last release:
@@ -10,7 +10,7 @@ Alpha v1.0 - https://github.com/Dani-24/Serapios/releases/tag/v1.0
 
 <p align="center">
  
-<img align="center" width="500" height="500" src="https://www.giantbomb.com/a/uploads/square_medium/2/23093/2623980-super%20soukoban%20%28j%29_00001.jpg">
+<img align="right" width="500" height="500" src="https://www.giantbomb.com/a/uploads/square_medium/2/23093/2623980-super%20soukoban%20%28j%29_00001.jpg">
  
 </p>
 
