@@ -100,7 +100,7 @@ a.button {
   font-family: 'Arial', Arial, serif;
   font-size: 23px;
   line-height: 1.2;
-  color: #fafafa;
+  color: #00000;
 }
 a.button small {
   display: block;
@@ -125,26 +125,26 @@ code, pre {
   margin-bottom: 30px;
   font-family: 'Arial', Arial, serif;
   font-size: 13px;
-  color: #fafafa;
+  color: #00000;
 }
 
 code {
   padding: 0 3px;
-  background-color: #fafafa;
-  border: solid 1px #fafafa;
+  background-color: #00000;
+  border: solid 1px #00000;
 }
 
 pre {
   padding: 20px;
   overflow: auto;
   text-shadow: none;
-  background: #fafafa;
-  border: solid 1px #fafafa;
+  background: #00000;
+  border: solid 1px #00000;
 }
 pre code {
   padding: 0;
-  color: #fafafa;
-  background-color: #fafafa;
+  color: #00000;
+  background-color: #00000;
   border: none;
 }
 
@@ -160,7 +160,7 @@ hr {
   margin-top: 1em;
   margin-bottom: 1em;
   border: 0;
-  border-top: solid 1px #ddd;
+  border-top: solid 1px #fafafa;
 }
 
 table {
@@ -180,7 +180,7 @@ td {
 
 form {
   padding: 20px;
-  background: #fafafa;
+  background: #00000;
 
 }
 
@@ -193,7 +193,7 @@ form {
   font-family: 'Arial', Arial, serif;
   font-size: 2.8em;
   font-weight: normal;
-  color: #fafafa;
+  color: #00000;
   text-indent: 6px;
   letter-spacing: -1px;
 }
@@ -201,7 +201,7 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #fafafa;
+  color: #00000;
   content: "";
 }
 
@@ -210,14 +210,14 @@ form {
   font-family: 'Arial', Arial, serif;
   font-size: 22px;
   font-weight: bold;
-  color: #fafafa;
+  color: #00000;
   text-indent: 4px;
 }
 #main-content h2:before {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "/";
-  color: #fafafa;
+  color: #00000;
 }
 
 #main-content h3 {
@@ -226,7 +226,7 @@ form {
   font-family: 'Arial', Arial, serif;
   font-size: 18px;
   font-weight: bold;
-  color: #fafafa;
+  color: #00000;
   text-indent: 3px;
 }
 
@@ -234,7 +234,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "";
-  color: #fafafa;
+  color: #00000;
 }
 
 #main-content h4 {
@@ -242,7 +242,7 @@ form {
   font-family: 'Arial' Arial, serif;
   font-size: 15px;
   font-weight: bold;
-  color: #fafafa;
+  color: #00000;
   text-indent: 3px;
 }
 
@@ -257,28 +257,28 @@ h4:before {
   margin-bottom: 8px;
   font-family: 'Arial', Arial, serif;
   font-size: 14px;
-  color: #fafafa;
+  color: #00000;
   text-indent: 3px;
 }
 h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "///";
-  color: #fafafa;
+  color: #00000;
 }
 
 #main-content h6 {
   margin-bottom: 8px;
   font-family: 'Arial' Arial, serif;
   font-size: .8em;
-  color: #fafafa;
+  color: #00000;
   text-indent: 3px;
 }
 h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "////";
-  color: #fafafa;
+  color: #00000;
 }
 
 p {
@@ -322,14 +322,14 @@ footer {
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
-  color: #fafafa;
+  color: #00000;
 }
 
 footer a {
-  color: #fafafa;
+  color: #00000;
 }
 footer a:hover {
-  color: #fafafa;
+  color: #00000;
 }
 
 /* MISC */
