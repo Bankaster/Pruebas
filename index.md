@@ -29,13 +29,13 @@ Alpha v1.0 - https://github.com/Dani-24/Serapios/releases/tag/v1.0
 ### Adrián Ramírez:
  UI 
  
-  <img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/818140279147724820/835096871692533771/serapios_logo.png">
+<img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/818140279147724820/835096871692533771/serapios_logo.png">
  
 <img width="700" height="500" src="https://cdn.discordapp.com/attachments/818140279147724820/848592806691471360/IMG-20210527-WA0023_1.jpg">
  
- <br>
- Team photo
- <br><br>
+<br>
+Team photo
+<br><br>
  
 </p>
  
