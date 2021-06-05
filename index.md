@@ -10,7 +10,17 @@ Alpha v1.0 - https://github.com/Dani-24/Serapios/releases/tag/v1.0
 
 <p align="center">
  
- <img align="left" width="400" height="400" src="https://emu-russia.net/gdb/snes/Super_Soukoban_0.png">
+ <img align="left" width="400" height="400" src="https://www.giantbomb.com/a/uploads/square_medium/2/23093/2623980-super%20soukoban%20%28j%29_00001.jpg">
+ 
+ <img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/818140279147724820/835096871692533771/serapios_logo.png">
+ 
+<img width="700" height="500" src="https://cdn.discordapp.com/attachments/818140279147724820/848592806691471360/IMG-20210527-WA0023_1.jpg">
+ 
+ <br>
+ Team photo
+ <br><br>
+ 
+</p>
 
 ***
 
@@ -28,16 +38,6 @@ Alpha v1.0 - https://github.com/Dani-24/Serapios/releases/tag/v1.0
  UI 
 ### Adrián Ramírez:
  UI 
- 
-<img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/818140279147724820/835096871692533771/serapios_logo.png">
- 
-<img width="700" height="500" src="https://cdn.discordapp.com/attachments/818140279147724820/848592806691471360/IMG-20210527-WA0023_1.jpg">
- 
-<br>
-Team photo
-<br><br>
- 
-</p>
  
 ***
 
@@ -96,3 +96,4 @@ D - Right
 W - Up
 
 *This game have gamepad controller support.*
+
