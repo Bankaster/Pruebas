@@ -32,6 +32,7 @@ We are Serapios, a group of five catalan students of CITM (UPC), located in Terr
 ### Adrián Ramírez:
  UI 
  
+ 
 <p align="center">
 <img width="700" height="500" src="https://cdn.discordapp.com/attachments/818140279147724820/848592806691471360/IMG-20210527-WA0023_1.jpg">
  
