@@ -10,7 +10,7 @@ Alpha v1.0 - https://github.com/Dani-24/Serapios/releases/tag/v1.0
 
 <p align="center">
  
- <img align="center" width="500" height="500" src="https://www.giantbomb.com/a/uploads/square_medium/2/23093/2623980-super%20soukoban%20%28j%29_00001.jpg">
+<img align="center" width="500" height="500" src="https://www.giantbomb.com/a/uploads/square_medium/2/23093/2623980-super%20soukoban%20%28j%29_00001.jpg">
  
 </p>
 
@@ -25,15 +25,15 @@ We are Serapios, a group of five catalan students of CITM (UPC), located in Terr
 Serapios members:
 
 ### Dani Toledo (Group Leader):
- Code and UI
+Code and UI
 ### Xavi López:
- Code
+Code
 ### Laia Pachón:
- Design and code
+Design and code
 ### Miguel Rodríguez:
- UI 
+UI 
 ### Adrián Ramírez:
- UI 
+UI 
  
 
 <p align="center">
