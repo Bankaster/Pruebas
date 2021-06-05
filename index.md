@@ -13,8 +13,7 @@ Alpha v1.0 - https://github.com/Dani-24/Serapios/releases/tag/v1.0
 <img align="center" width="500" height="500" src="https://www.giantbomb.com/a/uploads/square_medium/2/23093/2623980-super%20soukoban%20%28j%29_00001.jpg">
  
 </p>
-
-
+<br><br>
 
 ***
 
