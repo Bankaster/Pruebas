@@ -17,7 +17,7 @@ Alpha v1.0 - https://github.com/Dani-24/Serapios/releases/tag/v1.0
 ***
 
 ##      Who we are?
-<p align="left">
+
  
 <img align="center" width="400" height="400" src="https://cdn.discordapp.com/attachments/818140279147724820/835096871692533771/serapios_logo.png">
 
@@ -35,7 +35,7 @@ Design and code
 UI 
 ###  Adrián Ramírez:
 UI 
-</p>
+
 
 <p align="center">
 <img width="700" height="500" src="https://cdn.discordapp.com/attachments/818140279147724820/848592806691471360/IMG-20210527-WA0023_1.jpg">
@@ -46,7 +46,7 @@ Team photo
 </p>
  
 ***
-<p align="left">
+
 ##  Controls
 ###  Initial animation:
 Space - skip animation
@@ -102,4 +102,4 @@ D - Right
 W - Up
 
 *This game have gamepad controller support.*
-</p>
+
