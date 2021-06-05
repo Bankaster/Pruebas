@@ -8,8 +8,8 @@ body {
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
-  color: #00000;
-  background: #00000 url(https://media.discordapp.net/attachments/831168191832260659/850820437280948234/game_menu_bg.png?width=1440&height=531) 0 0 repeat;
+  color: #000000;
+  background: #fafafa url(https://media.discordapp.net/attachments/831168191832260659/850820437280948234/game_menu_bg.png?width=1440&height=531) 0 0 repeat;
 }
 
 p {
@@ -17,10 +17,10 @@ p {
 }
 
 a {
-  color: #00000;
+  color: #000000;
 }
 a:hover {
-  color: #00000;
+  color: #000000;
 }
 
 header {
@@ -38,7 +38,7 @@ header h1 {
   font-size: 72px;
   font-weight: normal;
   line-height: 1;
-  color: #00000;
+  color: #000000;
   letter-spacing: -1px;
 }
 
@@ -49,7 +49,7 @@ header h2 {
   font-size: 26px;
   font-weight: normal;
   line-height: 1.3;
-  color: #00000;
+  color: #000000;
   letter-spacing: 0;
 }
 
@@ -100,7 +100,7 @@ a.button {
   font-family: 'Arial', Arial, serif;
   font-size: 23px;
   line-height: 1.2;
-  color: #00000;
+  color: #000000;
 }
 a.button small {
   display: block;
@@ -125,26 +125,26 @@ code, pre {
   margin-bottom: 30px;
   font-family: 'Arial', Arial, serif;
   font-size: 13px;
-  color: #00000;
+  color: #000000;
 }
 
 code {
   padding: 0 3px;
-  background-color: #00000;
-  border: solid 1px #00000;
+  background-color: #000000;
+  border: solid 1px #000000;
 }
 
 pre {
   padding: 20px;
   overflow: auto;
   text-shadow: none;
-  background: #00000;
-  border: solid 1px #00000;
+  background: #000000;
+  border: solid 1px #000000;
 }
 pre code {
   padding: 0;
-  color: #00000;
-  background-color: #00000;
+  color: #000000;
+  background-color: #000000;
   border: none;
 }
 
@@ -160,7 +160,7 @@ hr {
   margin-top: 1em;
   margin-bottom: 1em;
   border: 0;
-  border-top: solid 1px #fafafa;
+  border-top: solid 1px #000000;
 }
 
 table {
@@ -180,7 +180,7 @@ td {
 
 form {
   padding: 20px;
-  background: #00000;
+  background: #000000;
 
 }
 
@@ -193,7 +193,7 @@ form {
   font-family: 'Arial', Arial, serif;
   font-size: 2.8em;
   font-weight: normal;
-  color: #00000;
+  color: #000000;
   text-indent: 6px;
   letter-spacing: -1px;
 }
@@ -201,7 +201,7 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #00000;
+  color: #000000;
   content: "";
 }
 
@@ -210,14 +210,14 @@ form {
   font-family: 'Arial', Arial, serif;
   font-size: 22px;
   font-weight: bold;
-  color: #00000;
+  color: #000000;
   text-indent: 4px;
 }
 #main-content h2:before {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "/";
-  color: #00000;
+  color: #000000;
 }
 
 #main-content h3 {
@@ -226,7 +226,7 @@ form {
   font-family: 'Arial', Arial, serif;
   font-size: 18px;
   font-weight: bold;
-  color: #00000;
+  color: #000000;
   text-indent: 3px;
 }
 
@@ -234,7 +234,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "";
-  color: #00000;
+  color: #000000;
 }
 
 #main-content h4 {
@@ -242,7 +242,7 @@ form {
   font-family: 'Arial' Arial, serif;
   font-size: 15px;
   font-weight: bold;
-  color: #00000;
+  color: #000000;
   text-indent: 3px;
 }
 
@@ -250,35 +250,35 @@ h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "//";
-  color: #fafafa;
+  color: #000000;
 }
 
 #main-content h5 {
   margin-bottom: 8px;
   font-family: 'Arial', Arial, serif;
   font-size: 14px;
-  color: #00000;
+  color: #000000;
   text-indent: 3px;
 }
 h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "///";
-  color: #00000;
+  color: #000000;
 }
 
 #main-content h6 {
   margin-bottom: 8px;
   font-family: 'Arial' Arial, serif;
   font-size: .8em;
-  color: #00000;
+  color: #000000;
   text-indent: 3px;
 }
 h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "////";
-  color: #00000;
+  color: #000000;
 }
 
 p {
@@ -322,14 +322,14 @@ footer {
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
-  color: #00000;
+  color: #000000;
 }
 
 footer a {
-  color: #00000;
+  color: #000000;
 }
 footer a:hover {
-  color: #00000;
+  color: #000000;
 }
 
 /* MISC */
