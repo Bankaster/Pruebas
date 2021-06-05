@@ -1,6 +1,6 @@
-# SUPER SOUKOBAN
+#  SUPER SOUKOBAN
 
-## Description
+##  Description
  Super Soukoban is an arcade game for the Super Nintendo Entertainment System launched in 1993. Is similar as a puzzle, and what the player has to do is pushing the boxes in the correct way and put them above the pink spheres. The history of the main character is to earn money and buy a new car so the girl choose him instead of the man of the blue car.
  
  
@@ -16,7 +16,7 @@ Alpha v1.0 - https://github.com/Dani-24/Serapios/releases/tag/v1.0
 
 ***
 
-## Who we are?
+##  Who we are?
 
 <img align="center" width="400" height="400" src="https://cdn.discordapp.com/attachments/818140279147724820/835096871692533771/serapios_logo.png">
 
@@ -24,15 +24,15 @@ Alpha v1.0 - https://github.com/Dani-24/Serapios/releases/tag/v1.0
 We are Serapios, a group of five catalan students of CITM (UPC), located in Terrassa, Spain. 
 Serapios members:
 
-### Dani Toledo (Group Leader):
+###  Dani Toledo (Group Leader):
 Code and UI
-### Xavi López:
+###  Xavi López:
 Code
-### Laia Pachón:
+###  Laia Pachón:
 Design and code
-### Miguel Rodríguez:
+###  Miguel Rodríguez:
 UI 
-### Adrián Ramírez:
+###  Adrián Ramírez:
 UI 
  
 
@@ -46,16 +46,16 @@ Team photo
  
 ***
 
-## Controls
-### Initial animation:
+##  Controls
+###  Initial animation:
 Space - skip animation
 
-### Title screen menu:
+###  Title screen menu:
 ESC - exit de game
 
 Space - Go to level selection screen
 
-### Level selection menu
+###  Level selection menu
 Controls - Shows you the game controls
 
 Exit to title - Go back to title
@@ -72,7 +72,7 @@ Exit to title - Go back to title
 
 6 - Go to Stage 6
 
-### Ingame (any stage):
+###  Ingame (any stage):
 ESC: Open pause menu
 
 1,2,3,4,5,6 - Go to the selected Stage (reload the Stage if it's the same)
@@ -91,7 +91,7 @@ Space (if lose) - Restart the current Stage
 
 Space (if win) - next level
 
-### Player Movement:
+###  Player Movement:
 A - Left
 
 S - Down
