@@ -106,7 +106,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: transparent url(../images/SI_Wii_SuperMarioGalaxy_image1600w.jpg) 0 0 no-repeat;
+  background-image: url(../images/SI_Wii_SuperMarioGalaxy_image1600w.jpg) 0 0 no-repeat;
 
   @include large {
     padding: 5rem 6rem;
